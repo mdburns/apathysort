@@ -1,0 +1,11 @@
+											 *---------------------*
+											 -- apathysort README --
+											 *---------------------*
+
+Project Brief:
+Sometimes your computer is just having a bad day and can't bring itself
+to do any more work.
+
+Technical:
+Apathyshort has fng:4 odds of giving up on any pass of the sort process.
+Note that if fng is set to 0, apathysort is integer quicksort.
